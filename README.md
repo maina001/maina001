@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maina001
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning in a bootcamp.
+- 🌱 I’m currently studying in a bootcamp.
 - 💞️ I’m looking to collaborate on front end and any computer science student.
 - 📫 Reach via Twitter@south b don.
 
